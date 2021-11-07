@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "76155552_855ebd3e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2021-11-07T04:48:39Z",
+      "side": 1,
+      "message": "not sure about this \n\nhttps://source.codeaurora.org/quic/la/device/qcom/common/commit/recovery?h\u003dLA.UM.10.3.r1-00300-sdm845.0\u0026id\u003d0ac020a05afa20667509d09aa72b24400c10accb looks semi important, but Qualcomm does keep some things around that they don\u0027t need anymore.",
+      "revId": "aba3f229b7fcd256ee28fe59cd8fc98423c35e18",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
